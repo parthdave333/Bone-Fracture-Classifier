@@ -20,7 +20,7 @@ This project is focused on building and deploying a deep learning model that can
 
 2. Install the required dependencies:
    ```bash
-      pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Download the dataset:
 
@@ -32,7 +32,7 @@ Place the model.h5 file in the project root if not already present.
 ## Running the App
 Run the Streamlit app:
 
-       streamlit run deploy.py
+    streamlit run deploy.py
 Use the app to upload X-ray images and receive real-time fracture classification results.
 
 ## Dataset
