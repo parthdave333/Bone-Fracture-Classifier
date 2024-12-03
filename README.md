@@ -32,7 +32,6 @@ Place the model.h5 file in the project root if not already present.
 ## Running the App
 Run the Streamlit app:
 
-    ```bash
        streamlit run deploy.py
 Use the app to upload X-ray images and receive real-time fracture classification results.
 
